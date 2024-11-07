@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../MUX.srcs/sources_1/new/MUX.v" \
+"../../../../MUX.srcs/sources_1/new/and_gate.v" \
+"../../../../MUX.srcs/sources_1/new/not_gate.v" \
+"../../../../MUX.srcs/sources_1/new/or_gate.v" \
+"../../../../MUX.srcs/sim_1/new/MUX_Testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

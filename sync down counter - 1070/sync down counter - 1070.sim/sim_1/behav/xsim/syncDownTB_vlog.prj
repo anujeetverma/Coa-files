@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../sync down counter - 1070.srcs/sources_1/new/syncDown.v" \
+"../../../../sync down counter - 1070.srcs/sim_1/new/syncDownTB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

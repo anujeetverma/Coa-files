@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/User/Desktop/1070Anujeet verma/SR_FlipFlop/SR_FlipFlop.srcs/sources_1/new/sr_ff.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sr_ff
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'q' is not allowed [C:/Users/User/Desktop/1070Anujeet verma/SR_FlipFlop/SR_FlipFlop.srcs/sources_1/new/sr_ff.v:27]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/User/Desktop/1070Anujeet verma/SR_FlipFlop/SR_FlipFlop.srcs/sim_1/new/sr_ff_testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sr_ff_testbench
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/User/Desktop/1070Anujeet verma/SR_FlipFlop/SR_FlipFlop.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

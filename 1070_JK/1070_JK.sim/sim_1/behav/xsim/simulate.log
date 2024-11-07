@@ -1,0 +1,21 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Time = 0 | j = 0, k = 0, clk = 0 | q = 0, q_bar = 1
+Time = 5000 | j = 0, k = 0, clk = 1 | q = 0, q_bar = 1
+Time = 10000 | j = 0, k = 0, clk = 0 | q = 0, q_bar = 1
+Time = 15000 | j = 0, k = 0, clk = 1 | q = 0, q_bar = 1
+Time = 20000 | j = 0, k = 1, clk = 0 | q = 0, q_bar = 1
+Time = 25000 | j = 0, k = 1, clk = 1 | q = 0, q_bar = 1
+Time = 30000 | j = 1, k = 0, clk = 0 | q = 0, q_bar = 1
+Time = 35000 | j = 1, k = 0, clk = 1 | q = 1, q_bar = 0
+Time = 40000 | j = 1, k = 1, clk = 0 | q = 1, q_bar = 0
+Time = 45000 | j = 1, k = 1, clk = 1 | q = 0, q_bar = 1
+Time = 50000 | j = 1, k = 1, clk = 0 | q = 0, q_bar = 1
+Time = 55000 | j = 1, k = 1, clk = 1 | q = 1, q_bar = 0
+Time = 60000 | j = 1, k = 1, clk = 0 | q = 1, q_bar = 0
+Time = 65000 | j = 1, k = 1, clk = 1 | q = 0, q_bar = 1
+Time = 70000 | j = 1, k = 1, clk = 0 | q = 0, q_bar = 1
+Time = 75000 | j = 1, k = 1, clk = 1 | q = 1, q_bar = 0
+Time = 80000 | j = 1, k = 1, clk = 0 | q = 1, q_bar = 0
+Time = 85000 | j = 1, k = 1, clk = 1 | q = 0, q_bar = 1
+$finish called at time : 90 ns : File "C:/Users/User/Desktop/1070Anujeet verma/1070_JK/1070_JK.srcs/sim_1/new/JK01.v" Line 48

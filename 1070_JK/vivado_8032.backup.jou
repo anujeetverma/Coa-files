@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Thu Oct 17 10:51:20 2024
+# Process ID: 8032
+# Current directory: C:/Users/User/Desktop/1135/1134_1135_JK
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3936 C:\Users\User\Desktop\1135\1134_1135_JK\1134_1135_JK.xpr
+# Log file: C:/Users/User/Desktop/1135/1134_1135_JK/vivado.log
+# Journal file: C:/Users/User/Desktop/1135/1134_1135_JK\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/User/Desktop/1135/1134_1135_JK/1134_1135_JK.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source JK01.tcl
+synth_design -rtl -name rtl_1
+close_sim
